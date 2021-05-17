@@ -1,4 +1,4 @@
-#Strategy Design Pattern
+# Strategy Design Pattern
 Define a family of algorithms, encapsulate each one, and make them interchangeable, The Strategy Pattern lets the algorithm vary indenpendently from clients that use it.
 
    ### When to Use the Strategy Pattern?
